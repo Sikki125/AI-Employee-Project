@@ -1,0 +1,5 @@
+# Handle line endings automatically
+* text=auto
+
+# Ensure python files are treated as code
+*.py text diff=python

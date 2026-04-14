@@ -1,0 +1,15 @@
+{
+  "current_tier": "Bronze",
+  "skills": [
+    {
+      "name": "file_monitoring",
+      "status": "active",
+      "tool": "watchdog"
+    },
+    {
+      "name": "keyword_sorting",
+      "status": "active",
+      "logic": "content_based"
+    }
+  ]
+}
